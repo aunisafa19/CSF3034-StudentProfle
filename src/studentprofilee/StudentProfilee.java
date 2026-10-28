@@ -9,8 +9,10 @@
 package studentprofilee; //declare package
 public class StudentProfilee { //declare class
     public static void main(String[] args) { //main method
-     System.out.println("Name: Auni Safa");
-     System.out.println("Student ID: S86891");
-     System.out.println("Programme: Bachelor of Computer Science");
+     System.out.println("Name: Auni Safa"); //output
+     System.out.println("Student ID: S86891");  //output
+     System.out.println("Programme: Bachelor of Computer Science");  //output
+     System.out.println("Semester: Semester 1");  //output
+     System.out.println("Favourite Language: Java");  //output
     } //end of main method
 }  //end of class
